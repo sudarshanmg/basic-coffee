@@ -1,2 +1,3 @@
 # basic-coffee
-This is just a basic coffee store website for personal use.
+-This is a simple and static website created using Bootstrap
+-🔗 https://sudarshanmg.github.io/basic-coffee/
